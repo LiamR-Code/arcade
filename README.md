@@ -10,3 +10,11 @@ After cloning the repository, simply run `arcade.py` to enter the arcade.  The a
 help you navigate to any game in the repository.
 
 Alternatively, you can also run individual games directly.
+
+## Contributing
+
+Anyone is welcome to contribute.  If you have simple game ideas, feel free to make an issue.
+If you'd like to implement one of the existing issues, feel free to take a wack at that too.
+Many of the issues here should be good for new programmers, who would like to learn a bit.
+
+Remember to make a PR if you want to share something you made!
